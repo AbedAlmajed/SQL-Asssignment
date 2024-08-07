@@ -13,5 +13,5 @@ This project is designed to enhance your SQL query skills through hands-on pract
 
 ## Screenshot
 
-- **SQL**: [SQL Image](image/sql.jpg)
+ [SQL Image](image/sql.jpg)
 
